@@ -38,6 +38,8 @@ To access the system immediately after installation, use the following default a
     * **Update the Connection String:** Go to the configuration file (within the Data Access Layer) and change the Server Name to your local SQL Server instance.
     * Build and Start the project.
 
+#The Application Still Under Development
+
 ## 📸 Screenshots
 <img width="1919" height="1079" alt="Screenshot 2026-01-06 163523" src="https://github.com/user-attachments/assets/8efb370d-60ba-4ecb-8943-0387bbf22f77" />
 <img width="1909" height="1079" alt="Screenshot 2026-01-06 163516" src="https://github.com/user-attachments/assets/db3af1cf-36c6-4e30-b85c-1c2aa9722840" />
