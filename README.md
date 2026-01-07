@@ -30,6 +30,7 @@ To access the system immediately after installation, use the following default a
 2.  **Database Setup (Crucial):**
     * Locate the SQL script file (DentalDataBase.sql) in the root folder.
     * Open **SQL Server Management Studio (SSMS)**.
+    * Create New DataBase With The Name `DentalClinicDB`.
     * Execute the script to create the database and necessary tables.
 
 3.  **Run the Application:**
