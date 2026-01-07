@@ -23,18 +23,18 @@ To access the system immediately after installation, use the following default a
 ## ⚙️ Setup & Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SajjadAliDev12/Your-Repo-Name.git](https://github.com/SajjadAliDev12/Your-Repo-Name.git)
+    git clone [https://github.com/SajjadAliDev12/Your-Repo-Name.git]
     ```
-    *(Please replace `Your-Repo-Name` with the actual name of this repository)*
+    
 
 2.  **Database Setup (Crucial):**
-    * Locate the SQL script file (e.g., `DentalClinic_DB_Script.sql`) in the root folder.
+    * Locate the SQL script file (DentalDataBase.sql) in the root folder.
     * Open **SQL Server Management Studio (SSMS)**.
     * Execute the script to create the database and necessary tables.
 
 3.  **Run the Application:**
     * Open the Solution file (`.sln`) in Visual Studio.
-    * **Update the Connection String:** Go to the configuration file (usually `App.config` or within the Data Access Layer) and change the Server Name to your local SQL Server instance.
+    * **Update the Connection String:** Go to the configuration file (within the Data Access Layer) and change the Server Name to your local SQL Server instance.
     * Build and Start the project.
 
 ## 📸 Screenshots
